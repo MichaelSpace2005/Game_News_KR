@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SnGNews</string>
+    <string name="auth_title_sign_in">Sign In now</string>
+    <string name="auth_title_sign_up">Sign Up NOW!</string>
+    <string name="auth_sub_title">Welcome to the best\ngaming news app in the world!\nSign in 4 notifications.</string>
+    <string name="auth_butt_text">Sign In</string>
+    <string name="register_butt_text">Sign Up</string>
+    <string name="username_input_hint">Username</string>
+    <string name="email_input_hint">Email</string>
+    <string name="password_input_hint">Password</string>
+    <string name="repeat_password_input_hint">Repeat password</string>
+    <string name="auth_forgot_password">Forgot password</string>
+    <string name="register_sub_title">When you register in this app\nyou give us a full rules to make\nyour gaming news best of the best</string>
+    <string name="no_account_title">Don`t have account?</string>
+    <string name="yes_account_title">Have account?</string>
+    <string name="home_page_subtitle">Best news special 4 gamers</string>
+    <string name="privacy_policy">I agree with the condition\nthat my data will be sent to third parties</string>
+    <string name="home_page_title">News</string>
+    <string name="auth_checkbox_text">Remember me</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="our_mission_is_to_spread_only_true_information_about_videogames_our_mission_is_simple_to_keep_gamers_informed_engaged_and_ahead_of_the_curve_whether_you_re_into_aaa_blockbusters_indie_gems_esports_or_industry_updates_we_aggregate_top_tier_content_from_trusted_sources_so_you_never_miss_a_beat">Our mission is to spread only true information about videogames! Our mission is simple: to keep gamers informed, engaged, and ahead of the curve. Whether you\'re into AAA blockbusters, indie gems, esports, or industry updates, we aggregate top-tier content from trusted sources so you never miss a beat.</string>
+
+</resources>

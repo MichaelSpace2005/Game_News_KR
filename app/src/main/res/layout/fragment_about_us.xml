@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingHorizontal="24dp"
+    tools:context=".fragment.AboutUsFragment">
+
+
+    <ImageView
+        android:id="@+id/stockImage"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@mipmap/ic_launcher"
+        app:layout_constraintTop_toTopOf="@id/titleTextAbUs"
+        app:layout_constraintStart_toEndOf="@+id/titleTextAbUs"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="@id/titleTextAbUs"
+        />
+
+    <TextView
+        android:id="@+id/titleTextAbUs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About this App"
+        style="@style/TitleText"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="24dp"/>
+
+    <TextView
+        android:id="@+id/subtitleTextAbUs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/our_mission_is_to_spread_only_true_information_about_videogames_our_mission_is_simple_to_keep_gamers_informed_engaged_and_ahead_of_the_curve_whether_you_re_into_aaa_blockbusters_indie_gems_esports_or_industry_updates_we_aggregate_top_tier_content_from_trusted_sources_so_you_never_miss_a_beat"
+        style="@style/SubTitleText"
+        app:layout_constraintTop_toBottomOf="@id/titleTextAbUs"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

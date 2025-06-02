@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794388199739",
+    "project_id": "go-i-create",
+    "storage_bucket": "go-i-create.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794388199739:android:7c620034d42720d38a1f1e",
+        "android_client_info": {
+          "package_name": "com.example.sngnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCphdXpaJpo6RAnpWee94Qv52iD7DDd_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
