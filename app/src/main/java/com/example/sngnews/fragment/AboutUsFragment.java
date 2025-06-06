@@ -18,6 +18,9 @@ public class AboutUsFragment extends Fragment {
     private FragmentAboutUsBinding binding;
 
 
+
+    
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
